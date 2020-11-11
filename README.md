@@ -14,3 +14,5 @@ Three algorithms were implemented in total. The Nearest Neighbor Algorithm, the 
 algorithms will perform a two-fold test and the results for the accuracy will be reported in
 this report. This was easily done by just swapping the test data with the training data
 when calling from the functions in the code.
+
+See pdf PathTraversal Report in repo for further information on techniques used
